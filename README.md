@@ -1,2 +1,4 @@
-# PDFviewer
-just demo
+PDFViewer
+=========
+
+PDF Viewer for Android source code
